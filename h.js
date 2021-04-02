@@ -26,6 +26,7 @@ class MyClass{
 //let object = new ClassName();
 
 let x = {
+    //P:V
     name:"Anil",
     surname:"Dollor",
     mob:"9797797979",
